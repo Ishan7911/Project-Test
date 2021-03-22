@@ -1,0 +1,47 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+
+.page-header {
+    padding-bottom: 9px;
+    margin: 40px 0 20px;
+    border-bottom: 1px solid #eee;
+}
+
+.environment_li
+{
+    margin-top: 13px;
+}
+
+.envireonment_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.environment_li img
+{
+    border-radius: 25px;
+}
+
+.environment_li img
+{
+    margin-top: 10px;
+}
+.header_entrepreneur
+{
+    line-height: 2;
+}
